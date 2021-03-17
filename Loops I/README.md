@@ -1,13 +1,8 @@
-## Java programming practices on HackerRank
-### Introduction
+### Objective 
 
-Solving Java programming challenges on [**HackerRank**](hackerrank.com/) website 
-from the famous printing helloworld <br> program, variables, String, arrays, to the advanced 
-OOP concepts of java programming language.
+ The challenge is to use loops to help us do some simple math.
 
-### What is hackerrank ?
+### Task ?
 
->**HackerRank** is a technology hiring platform that is the standard for assessing developer skills <br>for over 2,000+ companies around the world.
->-Hackerrank.com
-> 
+Given an integer, **N** , print its first **10** multiples. Each multiple ***N x i***(where *1 <= i <=10* ) <br>should be printed on a new line in the form: N x i = result.
 
